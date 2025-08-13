@@ -1,0 +1,4 @@
+[tool.poetry]
+dependencies = [
+    "python-telegram-bot = "^20.3"
+]
